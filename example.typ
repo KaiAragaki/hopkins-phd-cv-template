@@ -27,8 +27,8 @@
         funding(source: "Extortion", duration: "1999", amount: "100 real", description: "Stipend"),
     ),
     awards: (
+        award(year: "1997(?)", name: "double-yefreitor", source: "Revochal Citizens Militia"),
         award(year: "1992(?)", name: "yefreitor", source: "Revochal Citizens Militia"),
-        award(year: "1997(?)", name: "double-yefreitor", source: "Revochal Citizens Militia")
     ),
     publications: (
         publication(
