@@ -1,6 +1,6 @@
 # About
 
-This repository contains a [Typst](typst.app) template for the Johns Hopkins School of Medicine CV template for PhD candidates.
+This repository contains a [Typst](https://typst.app) template for the Johns Hopkins School of Medicine CV template for PhD candidates.
 
 *This* template tries its best to conform to the guidelines provided in the template above, but cannot make any assurances. If you encounter an issues with this template, please feel free to open an issue or make a pull request.
 
